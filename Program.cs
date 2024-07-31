@@ -132,5 +132,6 @@ class Program
         Console.WriteLine("4. slot_numbers_for_vehicles_with_color {color} -> Menampilkan laporan jumlah kendaraan berdasarkan warna kendaraan");
         Console.WriteLine("5. registration_numbers_for_vehicles_with_odd_plate -> Menampilkan laporan jumlah kendaraan berdasarkan nomor kendaraan ganjil");
         Console.WriteLine("6. registration_numbers_for_vehicles_with_even_plate -> Menampilkan laporan jumlah kendaraan berdasarkan nomor kendaraan genap");
+        
     }
 }

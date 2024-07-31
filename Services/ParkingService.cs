@@ -133,7 +133,6 @@ namespace ParkingSystem.Services
             return plates;
         }
 
-
     }
     
 }
